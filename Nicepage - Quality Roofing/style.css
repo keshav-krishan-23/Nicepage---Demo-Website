@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nicepage{
+            top: 0px;
+            position: sticky;
+            width: 98vw;
+            background-color: rgb(225, 221, 221);
+            z-index: 2;
+            height: 70px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .page{
+            margin: 10px;
+            font-size: 30px;
+            font-family:  Arial, Helvetica, sans-serif;
+            color: rgb(87, 84, 84);
+        }
+         .number{
+            height: 40px;
+            width: 98vw;
+            padding: 20px 0px 0px 20px;
+            color: blue;
+            display: flex;
+        }
+        .be{
+            font-weight: 500;
+            margin: 0px 0px 0px 5px;
+        }
+        .rs{
+            margin: -6px 0px 0px 40px;
+            font-size: 13px;
+            padding: 8px 1px 8px 20px ;
+            border-radius: 65px;
+            color: white;
+            background-color: blue;
+            height: 15px;
+            width: 110px;
+        }
