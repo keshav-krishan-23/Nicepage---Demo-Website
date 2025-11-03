@@ -1,0 +1,257 @@
+*{
+
+            margin: 0px;
+        }
+        .builders{
+            position: absolute;
+            top: 180px;
+            left: 25px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: 600;
+            font-size: 20px;
+        }
+        .nicepage{
+            top: 0px;
+            position: sticky;
+            width: 100vw;
+            background-color: rgb(225, 221, 221);
+            z-index: 1;
+            height: 70px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .page{
+            margin: 10px;
+            font-size: 30px;
+            font-family:  Arial, Helvetica, sans-serif;
+            color: rgb(87, 84, 84);
+        }
+         .skyline{
+        background-color: rgba(234, 234, 240, 0.621);
+      height: 150px;
+      width: 100vw;
+      display: flex;
+      justify-content: space-between;
+    }
+     .line{
+        margin: 55px 20px;
+     }
+     .social{
+        height: 120px;
+        width: 100vw;
+        background-color: rgb(216, 227, 234);
+    }
+    .phone{
+        display: flex;
+       height: 60px;
+       width: 100vw;
+    }
+    .pho{
+        margin: 20px 0px 0px 0px ;
+      
+        height: 22px;
+        background-color: rgb(216, 227, 234);
+        width: 6vw;
+        
+    }
+    .ne{
+       padding: 0px 0px 0px 77px;
+        margin: 20px 90px 0px 0px;
+        font-size: 18px;
+        width: 100vw;
+        height: 20px;
+        text-align: center;
+        letter-spacing: 1.5px;
+        font-family: Arial, Helvetica, sans-serif; 
+       
+    }
+    .facebook{
+        margin: 10px 0px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .boy{
+        height: 1030px;
+        width: 100vw;
+        background-color: black;
+    }
+    .info{
+        height: 1030px;
+        width: 100vw;
+        background-color: rgb(216, 227, 234);
+    }
+    .info2{
+        height: 450px;
+        width: 85vw;
+        background-color: rgba(216, 227, 234);
+        margin: 60px 4vw 0px 8vw;
+    }
+    .h1{
+        font-weight: bold;
+        font-size: 27px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .bold{
+        border: 1px solid black;
+        display: flex;
+        height: 45px;
+    }     
+     .labe{
+         padding: 5px 0px 0px 0px;        
+        row-gap: 10px;
+      font-weight: 900;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+        
+     }
+     .compan{
+ 
+         font-size: 18px;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+       letter-spacing: 1px;
+       opacity: 0.6;
+     }
+     .boxy{
+        margin: 10px 0px 0px 0px ;
+     }
+
+      .paragraph{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin: 10px 7vw 0px 7vw;
+        height: 550px;
+        width: 85vw;
+        background-color: rgb(216, 227, 234);
+    }
+    .pa{
+        margin: 30px 0px 0px 0px; 
+        font-size: 40px;
+        letter-spacing: 0.2px;
+    }
+    .ra{
+        opacity: 0.8;
+        line-height: 23px;
+        margin: 8px 0px 0px 0px;
+        font-size: 15px;
+        letter-spacing: 0.3px;
+        }
+    .gra{
+      opacity: 0.8;
+        line-height: 23px;
+        margin: 8px 0px 20px 0px;
+        font-size: 15px;
+        letter-spacing: 0.3px;
+
+        
+    }
+    .greene{
+        color: rgb(242, 235, 235);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 230px;
+        width: 100vw;
+        background-color: rgb(147, 193, 172);
+    }
+    .gre{
+    letter-spacing: 1px;
+    padding: 38px 0px 20px 38px;
+    font-size: 26px;
+    }
+    .ene{
+    padding: 0px 8px 20px 35px;
+    font-size: 16px;
+        
+    }
+    .aboutus{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 400px;
+    width: 88vw;
+    margin: 0px 7vw 0px 7vw;
+}
+.abo{
+    font-size: 28px;
+    margin: 40px 20px 0px 14px;
+}
+.ut{
+    margin: 20px 0px 0px 7px;
+    line-height: 20px;
+   color: rgba(0, 0, 0, 0.753);
+}
+.us{
+    margin: 20px 0px 0px 7px;
+    line-height: 20px;
+   color: rgba(0, 0, 0, 0.753);
+}
+.services{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 400px;
+    width: 88vw;
+    margin: 0px 7vw 0px 7vw;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0px 0px 0px 6px;
+    background-color: rgba(128, 128, 128, 0.101);
+
+}
+.s{width: 180px; margin: 20px 30px 20px 5px;}
+.e{width: 280px; margin: 20px 30px 20px 5px;}
+.r{width: 280px; margin: 20px 30px 20px 5px;}
+.v{width: 280px; margin: 20px 30px 20px 5px;}
+.i{width: 280px; margin: 20px 30px 20px 5px;}
+.c{width: 280px; margin: 20px 30px 20px 5px;}
+.l{width: 280px; margin: 20px 30px 20px 5px;}
+.project{
+        margin: 40px 7vw 7px ;
+        height: 4000px;
+        width: 88vw;
+    }
+    .project1{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: 405px;
+        width: 88vw;
+    }
+    .overview{
+        font-size: 30px;
+    }
+    .label2{
+       font-size: 20px;
+
+    }
+    label{
+        padding: 60px 0px 0px 0px;
+    }
+    .label1{
+        font-size: 15px;
+    }
+    .label3{
+        font-size: 13px;
+    }
+    .p{
+     margin: 8px 0px 0px 0px;
+    }
+     .space{
+        margin: 10px 0px 10px 0px;
+    }
+    .project3{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            margin: 40px 0px 0px 0px;
+            height: 280px;
+            padding: 40px 0px 0px 0px;
+            width: 88vw;
+            background-color: rgba(128, 128, 128, 0.268);
+        }
+         .project6{
+        margin: 50px 0px 0px 0px;
+    }
+    .cry{
+        height: 20px;
+    }
+      @keyframes kka{
+        0%{filter: invert(0);}
+        20%{filter: invert(20);}
+        40%{filter: invert(0);}
+        60%{filter: invert(60);}
+        80%{filter: invert(0);}
+        100%{filter: invert(10);}
+    }
+
+    
